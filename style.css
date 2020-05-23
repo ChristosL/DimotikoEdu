@@ -1,4 +1,13 @@
 
 h1 {
+    left: 90px;
     color: red;
+    position: sticky;
+}
+
+p {
+    background-color: aquamarine;
+    position: absolute;
+    max-width: inherit;
+    
 }
